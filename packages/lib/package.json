@@ -17,7 +17,7 @@
     "clean": "rimraf node_modules"
   },
   "dependencies": {
-    "@ai-sdk/google-vertex": "3.0.81",
+    "@ai-sdk/google-vertex": "4.0.147",
     "@aws-sdk/client-s3": "^3.998.0",
     "@aws-sdk/client-sesv2": "^3.998.0",
     "@aws-sdk/cloudfront-signer": "^3.998.0",
@@ -43,14 +43,14 @@
     "@sindresorhus/slugify": "^3.0.0",
     "@team-plain/typescript-sdk": "^5.11.0",
     "@vvo/tzdb": "^6.196.0",
-    "ai": "^5.0.104",
+    "ai": "^6.0.208",
     "bullmq": "^5.71.1",
     "csv-parse": "^6.1.0",
     "inngest": "^3.45.1",
     "ioredis": "^5.10.1",
     "jose": "^6.1.2",
     "konva": "^10.0.9",
-    "kysely": "0.28.8",
+    "kysely": "0.28.17",
     "luxon": "^3.7.2",
     "nanoid": "^5.1.6",
     "oslo": "^0.17.0",
@@ -73,6 +73,6 @@
     "@playwright/browser-chromium": "1.56.1",
     "@types/luxon": "^3.7.1",
     "@types/pg": "^8.15.6",
-    "vitest": "^4.0.18"
+    "vitest": "^4.1.9"
   }
 }
